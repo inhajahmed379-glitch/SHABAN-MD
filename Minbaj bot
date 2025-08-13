@@ -1,0 +1,15 @@
+minhaj-bot/
+├─ package.json
+├─ index.js
+├─ .env.example
+├─ commands/
+│  ├─ help.js
+│  ├─ ping.js
+│  ├─ alive.js
+│  ├─ tts.js
+│  ├─ sticker.js
+│  ├─ tagall.js
+│  └─ gpt.js
+└─ utils/
+   ├─ ai.js
+   └─ files.js
